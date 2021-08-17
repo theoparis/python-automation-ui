@@ -1,0 +1,7 @@
+nanoleafapi
+numpy
+pyttsx3
+json5
+flask
+flask_sqlalchemy
+flask_login
